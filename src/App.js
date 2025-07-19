@@ -1,7 +1,12 @@
+// App.js
+import React from 'react';
+import TicTacToe from './components/TicTacToe';
+
 function App() {
   return (
-    <div className="App">
-      <h2>Hello, React!</h2>
+    <div>
+      <h1>React 게임</h1>
+      <TicTacToe />
     </div>
   );
 }
