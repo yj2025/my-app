@@ -1,7 +1,7 @@
 // App.js
 import React from 'react';
 import TicTacToe from './components/TicTacToe';
-import Weather from './Weather';
+import Weather from './components/Weather';
 
 function App() {
   return (
